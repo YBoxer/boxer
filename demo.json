@@ -1,1 +1,8 @@
-
+{
+  "name": "Local",
+  "description": "local",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://codeberg.org/movejunior/one/raw/branch/main/plugins.json"
+  ]
+}
